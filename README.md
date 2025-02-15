@@ -1,2 +1,2 @@
-# guess_number_game
-A simple number guessing game in Python
+# My Project
+These are all my projects
